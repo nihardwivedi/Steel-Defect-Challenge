@@ -2,7 +2,8 @@
 > Github repo for the Kaggle Steel Challenge.  
 >
 > - Team members are **Nihar Dwivedi**, **Toluwaleke Olutayo** and **Yue Li**.<br/>
-Product Definition(TAYO)<br/>
+
+#### Product Definition<br/>
 
 #### Product Mission: <br/>
 For Steel manufacturers and construction companies, who need to efficiently identify defects in steel, Steel Defect Detector is a machine learning module that classifies defects in steel sheets.<br/>
