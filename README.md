@@ -58,3 +58,5 @@ Machine Learning has multiple frameworks that we can use. We had to choose betwe
 
 ##### Test or Verification Program
 The Model will be tested against a hidden database and accuracy calculated by comparison with the ground truth. The ranking of the submission will be the validation.
+
+##### Link to presentation - https://docs.google.com/presentation/d/19450wHM0ajLizVtfXvIG-2JWzgNhxDii_kCdJUwvPZU/edit?usp=sharing
