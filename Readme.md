@@ -1,7 +1,7 @@
 # Steel-Defect-Challenge
 > Github repo for the Kaggle Steel Challenge.  
 >
-> - Team members are **Nihar Dwivedi**, **Toluwaleke Olutayo** and **Yue Li**.<br/>
+> - Team members are **Nihar Dwivedi** and **Toluwaleke Olutayo**.<br/>
 
 #### Product Definition<br/>
 
@@ -23,7 +23,7 @@ As a supplier, I want to be able to supply my customers with quality steel so as
 A working classifier.
 
 #### User Interface(Optional)<br/>
-Product Survey (Yue)
+Product Survey
 Existing Similar Products
 Accuracy is a very important measure measurement for the model. SaurabhG(2018) mentioned that the gradient boosting classifier had the highest testing accuracy, after comparing five different algorithms. It also introduce the NEU data base to us. The data set  has divided the image into six data set.
 Hu, H et al(2014) claims that the support vector machine performed better than the neural networks in the average class accuracy, especially for the case with limited classes. 
@@ -37,6 +37,8 @@ Hu, H., Li, Y., Liu, M., & Liang, W. (2014). Classification of defects in steel 
 Sarma, A. S. S., Janani, R., & Sarma, A. S. V. (2013, September). Detecting the surface defects on hot rolled steel sheets using texture analysis. In 2013 International Conference on Advanced Electronic Systems (ICAES) (pp. 157-159). IEEE.<br/>
 
 #### System Design<br/>
+
+Data -> Exploration -> Classification -> Verification
 
 ##### Major Components<br/>
 
